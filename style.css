@@ -1,0 +1,64 @@
+body {
+    background-image: url(moroccan-flower.png);
+}
+main {
+    background-color: antiquewhite;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 30px;
+}
+h2 {
+    font-family: sans-serif;
+    margin-bottom: 10px;
+}
+
+section {
+    margin-left: 10px;
+}
+
+img {
+    
+}
+.item {
+    margin-left: 10%;
+    margin-top: 0px;
+    line-height: 1px;
+}
+
+.jenis {
+    display: inline-block;
+    width: 50%;
+}
+.jenis_bus {
+    width: 20%;
+    line-height: 1px;
+    display: inline-block;
+}
+.gambar {
+    width: 20%;
+    display: inline-block;
+    margin-right: 45px;
+}
+input {
+    display: inline-block;
+    width: 10%;
+    
+}
+
+.footer {
+    text-align: center;
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+.footer p {
+    line-height: 1px;
+}
